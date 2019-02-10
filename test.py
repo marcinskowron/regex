@@ -1,4 +1,4 @@
-3#!/usr/bin/env python3
+#!/usr/bin/env python3
 from collections import OrderedDict
 import sys
 import unittest
